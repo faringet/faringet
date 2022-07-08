@@ -1,3 +1,6 @@
+
+___
+
 # Hi there, I'm [Mikhail](https://google.ru/) 👋
 ### Java Developer from Russia 🇷🇺
 
@@ -9,10 +12,6 @@ ___
 
 ___
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-___
-
 
 ### :man_technologist: About Me :
 
@@ -21,6 +20,8 @@ ___
 - :seedling: Exploring Java.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
+
+  [![codewars](https://www.codewars.com/users/faringet/badges/small)](https://www.codewars.com/users/faringet)
 
 - :mailbox:How to reach me: 
 
@@ -34,3 +35,5 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+
