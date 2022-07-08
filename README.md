@@ -1,8 +1,4 @@
-
-___
-
-# Hi there, I'm [Mikhail](https://google.ru/) 👋
-### Java Developer from Russia 🇷🇺
+![Screenshot](header.png)
 
 ___
 
