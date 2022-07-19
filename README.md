@@ -20,6 +20,10 @@ ___
 
 - :mailbox:How to reach me: 
 
+     https://career.habr.com/faringet
+
+     mik.davydov14@gmail.com
+
 ___
     
 ### :hammer_and_wrench: Languages and Tools :
