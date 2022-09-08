@@ -20,9 +20,7 @@ ___
 
 - :mailbox:How to reach me: 
 
-     https://career.habr.com/faringet
-
-     mik.davydov14@gmail.com
+    mik.davydov14@gmail.com
 
 ___
     
