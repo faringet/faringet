@@ -14,7 +14,10 @@ ___
 
 - :seedling: Exploring Java and Go
 
-- :zap: In my free time, I solve problems on CodeWars and read tech articles.
+- 🤖 Writing commercial telegram bots
+(https://t.me/mama_wb_bot as example)
+
+- :zap: In my free time, I solve problems on CodeWars and read tech articles
 
   [![codewars](https://www.codewars.com/users/faringet/badges/small)](https://www.codewars.com/users/faringet)
 
