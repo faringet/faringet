@@ -26,6 +26,11 @@ ___
     mik.davydov14@gmail.com
 
 ___
+
+        
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faringet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+___
     
 ### :hammer_and_wrench: Languages and Tools : 
 
@@ -40,5 +45,9 @@ ___
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 
 </div>
+
+    
+
+
 
 
