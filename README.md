@@ -45,7 +45,6 @@ ___
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
   
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 
 </div>
 
